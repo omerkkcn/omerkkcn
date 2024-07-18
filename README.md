@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 
-<h3 align="center">🔎 I'm interested coding, painting, and playing games</h3>
+<h3 align="center">🔎 I'm interested coding,listen to music and playing games</h3>
 
 
 <h3 align="center">Connect with me:</h3>
