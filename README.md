@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/omerkkcn?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href="https://instagram.com/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href= "https://youtube.com/@omerkkcn?si=4c7MKhGmkiEea1nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omerkkcn" height="30" width="40" /></a>
-<a href="https://discord.gg/omerfkokcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omerfkokcan" height="30" width="40" /></a>
+<a href="https://discord.com/invite/YErv6wRT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omerfkokcan" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
