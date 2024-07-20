@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/omer_kokcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omer_kokcan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ömer Kökçan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer kökçan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer kökçan" height="30" width="40" /></a>
 <a href="https://fb.com/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href="https://instagram.com/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omerkkcn" height="30" width="40" /></a>
