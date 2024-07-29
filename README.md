@@ -7,11 +7,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/omer_kokcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omer_kokcan" height="30" width="40" /></a>
+<a href="https://twitter.com/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omer_kokcan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer kökçan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/omerkkcn?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href="https://instagram.com/omerkkcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerkkcn" height="30" width="40" /></a>
-<a href= "https://youtube.com/@omerkkcn?si=4c7MKhGmkiEea1nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omerkkcn" height="30" width="40" /></a>
+<a href= "https://www.youtube.com/channel/UCVr8zlyVtuLPWd8mSq_SCdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omerkkcn" height="30" width="40" /></a>
 <a href="https://discord.com/invite/YErv6wRT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omerfkokcan" height="30" width="40" /></a>
 </p>
 
